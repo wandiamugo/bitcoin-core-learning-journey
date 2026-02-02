@@ -1,7 +1,8 @@
 # Breaking Tests on Purpose: A Learning Journey Through Bitcoin Core's Architecture
 
 **Author:** Elizabeth Wandia Mugo
-**Date:** February 2026
+
+**Date:** 2nd February 2026
 
 ## Abstract
 
