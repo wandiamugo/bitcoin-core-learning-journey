@@ -380,5 +380,3 @@ Rarely, a single bit in a stored file flips due to cosmic radiation or electrica
 For developers, this test is an excellent template for how to think about file loading and validation in any application. The graduated error handling — recreate, backup-and-recreate, or refuse-to-start — based on the severity of the problem, is a pattern worth emulating far beyond Bitcoin Core.
 
 ---
-
-**Next Test:** feature_anchors.py - Testing anchor connections
